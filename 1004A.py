@@ -9,3 +9,4 @@ for i in range(t-1):
     elif(arr[i+1]-arr[i]>2*d):
         count+=2
 print(count+2)
+/*Done*/

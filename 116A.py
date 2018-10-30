@@ -6,6 +6,6 @@ for i in range (n):
 count = 0             
 for i in range(n):
     if int(l[i][1]) - int(l[i][0]) >= 2:
-        count = count +1
+        count = count +1 //increamenting count value by 1
 print (count)    
     

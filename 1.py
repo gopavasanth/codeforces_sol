@@ -1,6 +1,6 @@
 n=int(input())
 b=[]
-c=0
+int c=0
 sum=0
 for i in range (n):
     b[i] = int(input())

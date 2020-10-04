@@ -1,3 +1,5 @@
+# Question: https://codeforces.com/problemset/problem/677/A
+
 m,n = list(map(int, input().split()))
 l=list(map(int, input().split()))
 count=0

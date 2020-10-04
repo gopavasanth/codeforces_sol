@@ -1,3 +1,5 @@
+# Question: https://codeforces.com/problemset/problem/158/A
+
 import math
 a = []
 n = int(input())

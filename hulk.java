@@ -1,25 +1,33 @@
+/*https://codeforces.com/problemset/problem/705/A*/
 
-public class Hulk{
+public class Hulk
+{
 
-    public static void main(String[] args) {
-        
-        Scanner s = new Scanner(System.in);
-        int m = s.nextInt(); #no of test cases
-        s.close();
-        int k = 1;
-        while(k<=m){
-            if(k%2==0){
+    public static void main(String[] args) 
+    { 
+        int m,i;
+        Scanner sc = new Scanner(System.in);
+        m = sc.nextInt();
+        for (i = 0; i < m; i++) 
+        {
+            if (i % 2 == 0) 
+            {
+                System.out.print("I hate ");
+            } 
+            else 
+            {
                 System.out.print("I love ");
             }
-            else{
-                System.out.print("I hate ");
-            }
-            if(m!=k){
+            if (i != (m - 1)) 
+            {
                 System.out.print("that ");
+                System.out.println();
             }
-            k++;
+            else
+            {
+                System.out.print("it ");
+                System.out.print();
+            }
         }
-        System.out.print("it");
-        System.out.println();
     }
 }

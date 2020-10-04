@@ -1,4 +1,4 @@
-# Question: https://codeforces.com/blog/entry/19700
+# Question: https://codeforces.com/problemset/problem/1/A
 
 n=int(input())
 b=[]

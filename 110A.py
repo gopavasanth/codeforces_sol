@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/110/A 
+
 n = input()
 count = 0
 for i in range(len(n)):

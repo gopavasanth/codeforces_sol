@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/1004/A
+
 a=list(map(int,input().split()))
 t=a[0]
 d=a[1]

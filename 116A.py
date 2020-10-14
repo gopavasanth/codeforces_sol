@@ -1,3 +1,4 @@
+#Question: https://codeforces.com/problemset/problem/116/A
 n = int(input())
 l = []
 a = []

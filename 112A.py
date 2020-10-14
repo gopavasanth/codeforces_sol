@@ -1,3 +1,4 @@
+#Question: https://codeforces.com/problemset/problem/112/A
 a = input()
 a = a.lower()
 b = input()

@@ -1,3 +1,5 @@
+# Question: https://codeforces.com/problemset/problem/230/A
+
 m, n = [int(x) for x in input().split()]
 #n is the no of test cases, m is the initial strength
 l = []

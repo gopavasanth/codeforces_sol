@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/200/B
+    
 from decimal import *
 getcontext().prec=12
 n = int(input())

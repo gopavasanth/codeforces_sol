@@ -1,3 +1,5 @@
+# Question: https://codeforces.com/problemset/problem/3/A
+
 s=input()
 t=input()
 l=[]

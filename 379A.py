@@ -1,3 +1,5 @@
+# Question: https://codeforces.com/problemset/problem/379/A
+
 a,b = list(map(int, input().split()))
 m=0
 n=a

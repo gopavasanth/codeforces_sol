@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/144/A
+
 n = int(input())
 l = list(map(int,input().split()))
 #p = l.index(max(l))

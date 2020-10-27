@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/11/A
+
 import math
 n,m=input().split()
 n,m=int(n),int(m)

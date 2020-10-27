@@ -1,5 +1,5 @@
-//code by Nikhil Nagrale
-//nikhilnagrale2 on EveryPlatform
+// Question: https://codeforces.com/problemset/problem/1388/A
+
 #include<bits/stdc++.h>
 using namespace std;
 

@@ -1,5 +1,6 @@
-def solve(n):
+#Question: https://codeforces.com/problemset/problem/1294/C
 
+def solve(n):
     distinct_factors = set()
 
     done, a = find_factors(n, distinct_factors)

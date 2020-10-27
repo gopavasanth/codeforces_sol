@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/131/A
+
 l = []
 l = input()
 if l.isupper():

@@ -11,6 +11,13 @@ if count > 1 or m == 1:
     print ("YES")
 else :
     print ("NO")
-        
-    
+ 
+
+# for loop can be avoided
+a = input()
+count = a.count("H") + a.count("Q") + a.count("9")
+if count>0:
+    print("YES")
+else:
+    print("NO")
     

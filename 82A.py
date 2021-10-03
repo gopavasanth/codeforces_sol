@@ -1,22 +1,20 @@
+import math
 n = int(input())
-a = n%5
-if n == 1:
+#a = n%5
+#a=a/2
+while n>5:         
+    n=n-5
+    n=n/2
+    #a=n
+a=math.ceil(n)
+if a == 1:
     print("Sheldon")
-elif n==2:
+elif a==2:
     print("Leonard")
-elif n==3:
-    print("Penny")    
-elif n==4:
-    print("Rajesh")
-elif n==5:
-    print("Howard")
-elif a ==1:
-    print("Sheldon")    
-elif a == 2:
-    print("Leonard")       
 elif a==3:
-    print("Penny")        
+    print("Penny")    
 elif a==4:
     print("Rajesh")
-elif a==0:
+elif a==5:
     print("Howard")
+

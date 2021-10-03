@@ -1,3 +1,5 @@
+#Question: https://codeforces.com/problemset/problem/141/A
+    
 a=list(input())
 b=list(input())
 c=list(input())

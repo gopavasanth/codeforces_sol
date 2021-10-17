@@ -1,5 +1,6 @@
 # Question: https://codeforces.com/problemset/problem/1/A
 
+# Taking input from user
 n=int(input())
 b=[]
 c=0
@@ -17,4 +18,4 @@ for j in range (n):
 for p in range (len(l)):
     sum=sum+l[i]
 
-print (l)
+print ("The sum is ", l)

@@ -4,6 +4,7 @@ a = a.lower()
 b = input()
 b = b.lower()
 
+# Checking for equality
 if a < b:
     print (-1)
 elif a == b:

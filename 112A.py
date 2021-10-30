@@ -1,12 +1,12 @@
 #Question: https://codeforces.com/problemset/problem/112/A
-a = input()
-a = a.lower()
+m = input()
+m = m.lower()
 b = input()
 b = b.lower()
 
-if a < b:
+if m < b:
     print (-1)
-elif a == b:
+elif m == b:
     print (0)
 else:
     print (1)

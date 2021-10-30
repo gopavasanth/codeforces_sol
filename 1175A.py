@@ -1,7 +1,7 @@
 #https://codeforces.com/problemset/problem/1175/A
 
-a = int(input())
-for i in range(a):
+num = int(input())
+for i in range(num):
     b, c = map(int, input().split())
     q = 0
     while(b != 0):
